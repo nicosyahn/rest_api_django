@@ -1,0 +1,18 @@
+3. Apa itu headless architecture, dan apa kelebihannya dibandingkan menyajikan frontend secara langsung?
+
+Jawaban : 
+
+3. Headless Architecture adalah arsitektur yang dapat mempermudah penerbitan multi channel. Arsitektur ini sangat relevan mengirimkan konten ke pengguna mereka, cocok untuk mengelola aset digital dan memusatkan tata kelola atas penerbita konten di berbagai saluran.
+
+Kelebihan :
+
+- Agnostis
+Dengan kebebasan untuk memilih framework front-end apa pun dan menggunakan layanan apa pun yang biasa digunakan developer, pekerjaan mereka tidak akan dibatasi oleh CMS, Cloud, atau Database yang dipilih. Dari satu Back-End, setiap saluran penerbitan tersedia.
+-Skalabiitas
+Kustomisasi dan peningkatan tidak terbatas, ringan dan modular sepenuhnya dapat disesuaikan. Ideal untuk proyek yang tumbuh secara eksponensial.
+-Agility
+Pengelola konten dan pengembangan Front-End mengeluarkan lebih banyak konten kreatif dengan kecepatan lebih cepat sekaligus dapat mengurangi biaya.
+
+
+
+

@@ -1,0 +1,5 @@
+1. Dengan bahasa anda sendiri, jelaskan apa itu REST API :
+
+Jawaban :
+
+1. Rest API (Application Programming Interface) adalah antarmuka pemrograman aplikasi yang memungkinkan pengguna untuk berinteraksi dengan aplikasi lain dan dapat menarik/memproses/mendorong data atau nilai bila diperlukan. Sederhananya dalam API, pengguna dapat menerima beberapa data sebagai permintaan dari klien, dan memprosesnya, lalu dikirimkan kembali kepada mereka.
